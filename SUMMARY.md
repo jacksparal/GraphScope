@@ -1,0 +1,18 @@
+# Table of contents
+
+* [GraphScope](README.md)
+* [Background](background.md)
+  * [What is graph computing](background.md#what-is-graph-computing)
+  * [**Graph computing: a foundation for the next generation of artificial intelligence**](background.md#graph-computing-a-foundation-for-the-next-generation-of-artificial-intelligence)
+  * [**Challenges of graph computing**](background.md#challenges-of-graph-computing)
+* [GraphScope: a one-stop large-scale graph computing system](graphscope-a-one-stop-large-scale-graph-computing-system.md)
+  * [Introduction](graphscope-a-one-stop-large-scale-graph-computing-system.md#introduction)
+  * [**Architecture overview**](graphscope-a-one-stop-large-scale-graph-computing-system.md#architecture-overview)
+  * [**Components**](graphscope-a-one-stop-large-scale-graph-computing-system.md#components)
+    * [**GIE: a parallel interactive engine for graph traversal**](graphscope-a-one-stop-large-scale-graph-computing-system.md#gie-a-parallel-interactive-engine-for-graph-traversal)
+    * [**GAE: a high-performance graph analytics engine**](graphscope-a-one-stop-large-scale-graph-computing-system.md#gae-a-high-performance-graph-analytics-engine)
+    * [**GLE: an end-to-end graph learning framework**](graphscope-a-one-stop-large-scale-graph-computing-system.md#gle-an-end-to-end-graph-learning-framework)
+    * [**Vineyard: an in-memory immutable data manager**](graphscope-a-one-stop-large-scale-graph-computing-system.md#vineyard-an-in-memory-immutable-data-manager)
+* [Case study: anti-fraud and risk control](case-study-anti-fraud-and-risk-control.md)
+* [The future of GraphScope](the-future-of-graphscope.md)
+* [Conclusion](conclusion.md)

@@ -1,0 +1,3 @@
+# Conclusion
+
+Because of its rapid evolution and rich expressivity, graph computing demonstrates a huge potential to unlock many of the next generation AI applications. In this white paper, we have introduced GraphScope, a one-stop large-scale graph computing system to be open-sourced by Alibaba. By providing a unified system for analytics, interactive queries and deep learning over graphs, GraphScope addresses many of the challenges encountered in existing systems. It is designed as a one-stop, user-friendly and highly performant system for industrial-scale graphs and applications. We believe in the future of graph computing, and we are fully committed to the future development of GraphScope. Welcome to join the force with us! 

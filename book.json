@@ -1,0 +1,7 @@
+{
+    "title": "GraphScope",
+    "plugins": [
+        "mathjax",
+        "-sharing"
+    ]
+}
